@@ -1,7 +1,6 @@
 ﻿# WeLoveMovies
 
-Learning objectives
-This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following:
+This project is the backend of a movie review app. Its main purpose was to practice/learn the following objectives:
 
 > * Install and use common middleware packages
 > * Receive requests through routes
@@ -15,3 +14,6 @@ This project is designed to test your ability to build complex servers and acces
 > * Return joined and nested data with Knex
 > * Write database migrations using Knex's migration tool
 > * Deploy your backend server to a cloud service
+
+![image](https://user-images.githubusercontent.com/51935561/137045714-79cfd460-e39e-44cd-a49d-304e54ef4786.png)
+
