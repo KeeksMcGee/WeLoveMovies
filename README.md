@@ -1,6 +1,6 @@
 ﻿# WeLoveMovies
 
-This project is the backend of a movie review app. Its main purpose was to practice/learn the following objectives:
+This project is the backend of a movie review app. Its main purpose was to practice/learn the following objectives for the backend only:
 
 > * Install and use common middleware packages
 > * Receive requests through routes
@@ -13,7 +13,7 @@ This project is the backend of a movie review app. Its main purpose was to pract
 > * Write database queries to complete CRUD routes in an Express server
 > * Return joined and nested data with Knex
 > * Write database migrations using Knex's migration tool
-> * Deploy your backend server to a cloud service
+
 
 ![image](https://user-images.githubusercontent.com/51935561/137045714-79cfd460-e39e-44cd-a49d-304e54ef4786.png)
 
